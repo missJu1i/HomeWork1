@@ -26,7 +26,6 @@ class RT {
         this.length = length;
 
     }
-
     public int getSquare() {
         int square = width * length;
         return square;
@@ -35,5 +34,10 @@ class RT {
     public int getPerimeter() {
         int perimeter = 2 * (width + length);
         return perimeter;
+    }
+    public static void main(String[] args) {
+        RT rectangle = new RT ();
+        System.out.println("Площа прямокутника = " + rectangle.getSquare());
+        System.out.println("Периметр прямокутника = " +rectangle.getPerimeter());
     }
 }
