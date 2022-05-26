@@ -1,4 +1,4 @@
-package hw1;
+package hw1.robots;
 
 import java.util.ArrayList;
 

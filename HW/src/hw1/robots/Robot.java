@@ -1,4 +1,4 @@
-package hw1;
+package hw1.robots;
 
 class Robot {
     public void work() {
