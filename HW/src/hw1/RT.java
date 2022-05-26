@@ -1,3 +1,5 @@
+package hw1;
+
 class RT {
     private int width = 10;
     private int length = 5;
