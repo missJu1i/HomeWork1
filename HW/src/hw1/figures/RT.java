@@ -1,4 +1,4 @@
-package hw1;
+package hw1.figures;
 
 class RT {
     private int width = 10;

@@ -1,4 +1,4 @@
-package hw1;
+package hw1.figures;
 
 public class Circle {
 
